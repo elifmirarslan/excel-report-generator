@@ -38,3 +38,8 @@ I created this project to practice Python automation and learn how repetitive Ex
 - PDF report generation
 - Email delivery
 - AI-generated insights
+## Example Output 📊
+ 
+The chart below is automatically generated from the sample Excel dataset.
+ 
+![Sales by Region](sales_by_region.png)

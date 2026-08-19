@@ -1,5 +1,4 @@
 __pycache__/
 *.pyc
 .venv/
-generated_report.xlsx
-sales_by_region.png
+
